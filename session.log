@@ -1,0 +1,7 @@
+2024-02-15 09:40:17,698 - [INFO] - webactions - Running at Windows.
+2024-02-15 09:40:20,142 - [INFO] - webactions - WebActions initialized
+2024-02-15 09:40:20,142 - [INFO] - webactions - WebActions.login method called
+2024-02-15 09:40:24,975 - [INFO] - webactions - Navigating to the demand summary page.
+2024-02-15 09:40:30,029 - [INFO] - webactions - Processing links with product type: COMETS
+2024-02-15 09:40:37,849 - [INFO] - webactions - Processing links with product type: COMETS
+2024-02-15 09:40:41,605 - [INFO] - webactions - WebActions.cleanup method called
